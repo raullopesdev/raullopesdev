@@ -77,6 +77,9 @@ Seja bem vindo(a)!
 -->
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raullopesdev&bg_color=000000&color=4c9e86&line=4c999e&point=1c277d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{raullopesdev}/count.svg" /></p> 
